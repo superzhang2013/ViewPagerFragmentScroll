@@ -1,0 +1,2 @@
+# ViewPagerFragmentScroll
+activity中包含一个头部视频，底部是一个viewpager。其中viewpager中fragment的滑动中 支持头部视频隐藏和显示的渐变动画。
